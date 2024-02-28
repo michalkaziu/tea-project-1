@@ -1,1 +1,9 @@
-{}
+{
+    "name": "tea-project-1",
+    "version": "0.0.1",
+    "description": "my first tea project",
+    "main": "index.js",
+    "repository": "https://github.com/michalkaziu/tea-project-1.git",
+    "dependencies": {
+    }
+}
